@@ -2,7 +2,7 @@ Hello! After a period of inactivity, I'm going to introduce a new practical proj
 
 
 
-Concluding remarks(Read insights.txt file)
+- Concluding remarks(Read insights.txt file):
 
 It seems there are not patterns observed.
 
