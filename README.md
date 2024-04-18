@@ -1,2 +1,113 @@
-# Social-Media-Analysis
-Data analysis and manipulation with a dataframe about social media uses and genders
+This is an analysis about gender and social media, with Python
+
+--------------------------------------------------
+UNIQUE VALUES:
+
+Australia         352
+United Kingdom    329
+United States     319 
+
+male          337
+non-binary    332
+female        331 
+
+Instagram    363
+YouTube      330
+Facebook     307 
+
+Marketer Manager     355
+Software Engineer    336
+Student              309 
+
+Lifestlye    341
+Sports       331
+Travel       328
+--------------------------------------------------
+
+
+--------------------------------------------------
+Time spented in social media:
+The mean time spented in social media of men is: 4.8 hours.
+
+The mean time spented in social media of women is: 5.2 hours.
+
+The mean time spented in social media of non-binary people is: 5.1 hours.
+--------------------------------------------------
+
+
+--------------------------------------------------
+Mean income:
+The mean income of the men is: $14920.
+
+The mean income of the woman is: $15186.
+
+The mean income of the non-binary people is: $14941.
+--------------------------------------------------
+
+
+--------------------------------------------------
+Car or No-Car by gender:
+Number of people without a car by gender: 
+female        147
+male          146
+non-binary    168
+
+Number of people with a car by gender: 
+female        184
+male          191
+non-binary    164
+--------------------------------------------------
+
+
+--------------------------------------------------
+How many people use each social media? 
+Facebook     307
+Instagram    363
+YouTube      330
+--------------------------------------------------
+
+
+--------------------------------------------------
+Quantity of Marketer Managers of each gender: 
+female        108
+male          120
+non-binary    127
+
+Quantity of Software Engineers of each gender: 
+female        115
+male          116
+non-binary    105
+
+Quantity of Students of each gender: 
+female        108
+male          101
+non-binary    100
+--------------------------------------------------
+
+
+--------------------------------------------------
+Quantity of persons who no owns a house by gender: 
+female        159
+male          171
+non-binary    162
+
+Quantity of persons who owns a house by gender 
+female        172
+male          166
+non-binary    170
+--------------------------------------------------
+
+  It seems there are not patterns observed.
+
+  Gender also does not seem to be a factor that defines the time spent on social media, as the average hours are similar in all three cases.
+
+  Gender does not appear to be a factor that defines people's salaries, as similar average salaries are observed among men, women, and non-binary individuals.
+
+  Within the professions of Marketer Manager, Software Engineer, or Student, there does not appear to be a trend towards any gender, as they are evenly distributed with little difference among them.
+
+  The preferred social network also does not seem to follow a pattern or trend, as both networks are usually fairly equal, except that Instagram seems to be the most popular, but by a very small margin.
+
+  The number of individuals with a car is nearly equal.
+
+  The number of individuals with a house is nearly equal.
+In other words, gender does not seem to influence the projects or performance of these individuals.
