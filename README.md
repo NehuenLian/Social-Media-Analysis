@@ -1,4 +1,4 @@
-Hello! After a period of inactivity, I'm going to introduce a new practical project, this time using Python. The insights and corresponding graphs are below, the dataset is about social networks and gender.
+Hello! I'm going to introduce a new practical project, this time using Python. The insights and corresponding graphs are below, the dataset is about social networks and gender.
 
 
 
